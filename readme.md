@@ -3,7 +3,7 @@
 ~html5
 ~css3
 ~vanilla javascript
-## link to the github repo
+## link to the github repository
 ~https://github.com/denis-ligare254/js-counter
 ## link to the hosted live project
 
