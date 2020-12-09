@@ -6,7 +6,7 @@
 ## link to the github repository
 ~https://github.com/denis-ligare254/js-counter
 ## link to the hosted live project
-
+~https://denis-ligare254.github.io/js-counter/
 # licencing  
 Copyright (c) <2020> <Ligare dennis>
 
